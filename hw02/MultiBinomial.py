@@ -16,8 +16,8 @@ class Binomial_EMSover:
         '''
             alphaL=[s1,s2,1-s1-s2]
             thetaL=[p,q,r]
-            N=50            取100枚硬币
-            size=100        一枚硬币抛50次
+            N=50            取N枚硬币
+            size=100        一枚硬币抛size次
         '''
         self.alphaL = alphaL
         self.thetaL = thetaL
