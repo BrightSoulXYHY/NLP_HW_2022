@@ -70,7 +70,7 @@ def calChineseWordEntropy(corpus,n=1):
 
 
 if __name__ == '__main__':
-    txt_path = "data"
+    txt_path = "../data"
     text_fileL = os.listdir(txt_path)
     for text_file in text_fileL:
         print(text_file,end=" ")
