@@ -1,0 +1,10 @@
+*.txt
+img/
+*.png
+*.csv
+
+para_data
+
+test*.*
+
+*.xlsx
