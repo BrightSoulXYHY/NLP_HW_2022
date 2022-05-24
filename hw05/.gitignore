@@ -1,0 +1,15 @@
+*.txt
+*.png
+*.csv
+
+para_data
+
+test*.*
+
+*.xlsx
+*.zip
+*.model
+
+log/
+img/
+out/
